@@ -1,0 +1,95 @@
+Param,test.type,swab.type,time.to.test,mean,q2.5,q97.5,link
+Sensitivity,Antibody,TAB,7,36,28,43,https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1826362
+Sensitivity,Antibody,TAB,14,80,68,99,https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1826362
+Sensitivity,Antibody,TAB,14+,93,80,98,https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1826362
+Specificity,Antibody,TAB,All,97,93,99,https://www.tandfonline.com/doi/full/10.1080/22221751.2020.1826362
+Sensitivity,Antibody,TAB,1-5 d,29.6,13.8,50.2,https://www.nature.com/articles/s41587-020-0659-0/tables/2
+Sensitivity,Antibody,TAB,6-10 d,63.9,46.2,79.2,https://www.nature.com/articles/s41587-020-0659-0/tables/3
+Sensitivity,Antibody,TAB,11-15 d,78.8,61.1,91,https://www.nature.com/articles/s41587-020-0659-0/tables/4
+Sensitivity,Antibody,TAB,16-20 d,89.5,66.9,98.7,https://www.nature.com/articles/s41587-020-0659-0/tables/5
+Sensitivity,Antibody,TAB,>20 d,81.8,48.2,97.7,https://www.nature.com/articles/s41587-020-0659-0/tables/6
+Sensitivity,Antibody,TAB,1-5 d,39.3,21.5,59.4,https://www.nature.com/articles/s41587-020-0659-0/tables/7
+Sensitivity,Antibody,TAB,6-10 d,77.1,59.9,89.6,https://www.nature.com/articles/s41587-020-0659-0/tables/8
+Sensitivity,Antibody,TAB,11-15 d,88.2,72.5,96.7,https://www.nature.com/articles/s41587-020-0659-0/tables/9
+Sensitivity,Antibody,TAB,16-20 d,89.5,66.9,98.7,https://www.nature.com/articles/s41587-020-0659-0/tables/10
+Sensitivity,Antibody,TAB,>20 d,100,69.2,100,https://www.nature.com/articles/s41587-020-0659-0/tables/11
+Sensitivity,Antibody,TAB,1-5 d,30.8,14.3,51.8,https://www.nature.com/articles/s41587-020-0659-0/tables/12
+Sensitivity,Antibody,TAB,6-10 d,66.7,49,81.4,https://www.nature.com/articles/s41587-020-0659-0/tables/13
+Sensitivity,Antibody,TAB,11-15 d,87.9,71.8,96.6,https://www.nature.com/articles/s41587-020-0659-0/tables/14
+Sensitivity,Antibody,TAB,16-20 d,77.8,52.4,93.6,https://www.nature.com/articles/s41587-020-0659-0/tables/15
+Sensitivity,Antibody,TAB,>20 d,90.9,58.7,99.8,https://www.nature.com/articles/s41587-020-0659-0/tables/16
+Sensitivity,Antibody,TAB,1-5 d,42.9,24.5,62.8,https://www.nature.com/articles/s41587-020-0659-0/tables/17
+Sensitivity,Antibody,TAB,6-10 d,77.8,60.8,89.9,https://www.nature.com/articles/s41587-020-0659-0/tables/18
+Sensitivity,Antibody,TAB,11-15 d,82.4,65.5,93.2,https://www.nature.com/articles/s41587-020-0659-0/tables/19
+Sensitivity,Antibody,TAB,16-20 d,89.5,66.9,98.7,https://www.nature.com/articles/s41587-020-0659-0/tables/20
+Sensitivity,Antibody,TAB,>20 d,90.9,58.7,99.8,https://www.nature.com/articles/s41587-020-0659-0/tables/21
+Sensitivity,Antibody,TAB,1-5 d,25.9,11.1,33.7,https://www.nature.com/articles/s41587-020-0659-0/tables/22
+Sensitivity,Antibody,TAB,6-10 d,55.6,38.1,51,https://www.nature.com/articles/s41587-020-0659-0/tables/23
+Sensitivity,Antibody,TAB,11-15 d,78.1,60,57.8,https://www.nature.com/articles/s41587-020-0659-0/tables/24
+Sensitivity,Antibody,TAB,16-20 d,69.2,38.6,61.4,https://www.nature.com/articles/s41587-020-0659-0/tables/25
+Sensitivity,Antibody,TAB,>20 d,83.3,35.9,64.1,https://www.nature.com/articles/s41587-020-0659-0/tables/26
+Sensitivity,Antibody,TAB,1-5 d,35.7,18.6,55.9,https://www.nature.com/articles/s41587-020-0659-0/tables/27
+Sensitivity,Antibody,TAB,6-10 d,71.4,53.7,85.4,https://www.nature.com/articles/s41587-020-0659-0/tables/28
+Sensitivity,Antibody,TAB,11-15 d,85.3,68.9,93.2,https://www.nature.com/articles/s41587-020-0659-0/tables/29
+Sensitivity,Antibody,TAB,16-20 d,89.5,66.9,96.6,https://www.nature.com/articles/s41587-020-0659-0/tables/30
+Sensitivity,Antibody,TAB,>20 d,90.9,58.7,99.8,https://www.nature.com/articles/s41587-020-0659-0/tables/31
+Sensitivity,Antibody,TAB,1-5 d,17.9,6.1,28.2,https://www.nature.com/articles/s41587-020-0659-0/tables/32
+Sensitivity,Antibody,TAB,6-10 d,54.3,36.6,60.6,https://www.nature.com/articles/s41587-020-0659-0/tables/33
+Sensitivity,Antibody,TAB,11-15 d,73.5,55.6,80.3,https://www.nature.com/articles/s41587-020-0659-0/tables/34
+Sensitivity,Antibody,TAB,16-20 d,78.9,54.4,90.9,https://www.nature.com/articles/s41587-020-0659-0/tables/35
+Sensitivity,Antibody,TAB,>20 d,90.9,58.7,94,https://www.nature.com/articles/s41587-020-0659-0/tables/36
+Sensitivity,Antibody,TAB,1-5 d,25,10.7,44.9,https://www.nature.com/articles/s41587-020-0659-0/tables/37
+Sensitivity,Antibody,TAB,6-10 d,58.3,40.8,74.5,https://www.nature.com/articles/s41587-020-0659-0/tables/38
+Sensitivity,Antibody,TAB,11-15 d,79.4,62.1,89.3,https://www.nature.com/articles/s41587-020-0659-0/tables/39
+Sensitivity,Antibody,TAB,16-20 d,78.9,54.4,93.9,https://www.nature.com/articles/s41587-020-0659-0/tables/40
+Sensitivity,Antibody,TAB,>20 d,90.9,58.7,99.8,https://www.nature.com/articles/s41587-020-0659-0/tables/41
+Sensitivity,Antibody,TAB,1-5 d,28,12.1,49.4,https://www.nature.com/articles/s41587-020-0659-0/tables/42
+Sensitivity,Antibody,TAB,6-10 d,62.9,44.9,78.5,https://www.nature.com/articles/s41587-020-0659-0/tables/43
+Sensitivity,Antibody,TAB,11-15 d,86.7,69.3,96.2,https://www.nature.com/articles/s41587-020-0659-0/tables/44
+Sensitivity,Antibody,TAB,16-20 d,78.9,54.4,93.9,https://www.nature.com/articles/s41587-020-0659-0/tables/45
+Sensitivity,Antibody,TAB,>20 d,90,55.5,99.7,https://www.nature.com/articles/s41587-020-0659-0/tables/46
+Sensitivity,Antibody,TAB,1-5 d,38.5,20.2,59.4,https://www.nature.com/articles/s41587-020-0659-0/tables/47
+Sensitivity,Antibody,TAB,6-10 d,66.7,49,81.4,https://www.nature.com/articles/s41587-020-0659-0/tables/48
+Sensitivity,Antibody,TAB,11-15 d,84.4,67.2,94.7,https://www.nature.com/articles/s41587-020-0659-0/tables/49
+Sensitivity,Antibody,TAB,16-20 d,89.5,66.9,98.7,https://www.nature.com/articles/s41587-020-0659-0/tables/50
+Sensitivity,Antibody,TAB,>20 d,81.8,48.2,97.7,https://www.nature.com/articles/s41587-020-0659-0/tables/51
+Sensitivity,Antibody,ELISA,1-5 d,39.3,39.3,21.5,https://www.nature.com/articles/s41587-020-0659-0/tables/52
+Sensitivity,Antibody,ELISA,6-10 d,80.6,80.6,64,https://www.nature.com/articles/s41587-020-0659-0/tables/53
+Sensitivity,Antibody,ELISA,11-15 d,91.2,91.2,76.3,https://www.nature.com/articles/s41587-020-0659-0/tables/54
+Sensitivity,Antibody,ELISA,16-20 d,89.5,66.9,66.9,https://www.nature.com/articles/s41587-020-0659-0/tables/55
+Sensitivity,Antibody,ELISA,>20 d,90.9,58.7,90.9,https://www.nature.com/articles/s41587-020-0659-0/tables/56
+Sensitivity,Antibody,ELISA,1-5 d,35.7,18.6,55.9,https://www.nature.com/articles/s41587-020-0659-0/tables/57
+Sensitivity,Antibody,ELISA,6-10 d,72.2,54.8,85.8,https://www.nature.com/articles/s41587-020-0659-0/tables/58
+Sensitivity,Antibody,ELISA,11-15 d,94.1,80.3,99.3,https://www.nature.com/articles/s41587-020-0659-0/tables/59
+Sensitivity,Antibody,ELISA,16-20 d,89.5,66.9,98.7,https://www.nature.com/articles/s41587-020-0659-0/tables/60
+Sensitivity,Antibody,ELISA,>20 d,81.8,48.2,97.7,https://www.nature.com/articles/s41587-020-0659-0/tables/61
+Specificity,Antibody,TAB,all,86.9,79,92.7,https://www.nature.com/articles/s41587-020-0659-0/tables/62
+Specificity,Antibody,TAB,all,95.2,89.1,98.4,https://www.nature.com/articles/s41587-020-0659-0/tables/63
+Specificity,Antibody,TAB,all,89.7,82.3,94.8,https://www.nature.com/articles/s41587-020-0659-0/tables/64
+Specificity,Antibody,TAB,all,84.3,76,90.6,https://www.nature.com/articles/s41587-020-0659-0/tables/65
+Specificity,Antibody,TAB,all,96.3,90.8,99,https://www.nature.com/articles/s41587-020-0659-0/tables/66
+Specificity,Antibody,TAB,all,97.2,92.1,99.4,https://www.nature.com/articles/s41587-020-0659-0/tables/67
+Specificity,Antibody,TAB,all,100,96.6,100,https://www.nature.com/articles/s41587-020-0659-0/tables/68
+Specificity,Antibody,TAB,all,98.1,93.4,99.8,https://www.nature.com/articles/s41587-020-0659-0/tables/69
+Specificity,Antibody,TAB,all,94.9,88.6,98.3,https://www.nature.com/articles/s41587-020-0659-0/tables/70
+Specificity,Antibody,TAB,all,99.1,94.9,100,https://www.nature.com/articles/s41587-020-0659-0/tables/71
+Specificity,Antibody,ELISA,all,89.8,82.5,94.8,https://www.nature.com/articles/s41587-020-0659-0/tables/72
+Specificity,Antibody,ELISA,all,99.1,94.9,100,https://www.nature.com/articles/s41587-020-0659-0/tables/73
+Sensitivity,RT-PCR,Nasopharyngeal,0,29,70.4,5.9,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,1,61.3,81.6,35.4,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,2,75.2,86,60.1,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,3,79.9,87.5,69,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,4,80.9,88,70.9,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,5,80,87.2,69.8,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,6,77.9,85.5,67.3,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,7,75,83.3,64,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,8,71.4,80.5,59.9,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,9,67.5,77.4,55.6,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,10,63.2,73.8,51,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,11,58.8,100,46.4,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,12,54.5,66.2,42,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,13,50.4,62.4,37.9,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,14,46.5,58.8,34.3,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,15,43,55.4,31.1,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,16,39.8,52.2,28.4,https://github.com/HopkinsIDD/covidRTPCR
+Sensitivity,RT-PCR,Nasopharyngeal,17,37,49.2,25.8,https://github.com/HopkinsIDD/covidRTPCR
