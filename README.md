@@ -4,7 +4,9 @@ __Short Abstract__ When will we be able to safely travel again or gather togethe
 
 Check out our shinyapp at [the following link!](https://homecovidtests.shinyapps.io/C3AI_AntigenTesting/)
 
-Disclaimer: this is not a medical diagnostic tool. This is simply to provide a little it of guidance, and to see -- for instance -- if the test that you have taken is likely to be a false negative, or to give you an idea of the risk in your neighborhood.
+Disclaimer: this is not a medical diagnostic tool. This is simply to provide a little bit of guidance at the individual level, and to see -- for instance -- if the test that you have taken is likely to be a false negative, or to give you an idea of the risk in your neighborhood. At the community level, capturing the heterogeneity of the community with respect to individual risks of having COVID paves the way to the design of more realistic models, and better strategies to control and mitigate the risk of an outbreak.
+
+
 
 ## I. Motivation
 
@@ -25,3 +27,8 @@ So why the Bayesian formalism? The method that we propose here is indeed based o
 - It is also essential in dealing with the bias that all the datasets are subject to.
 
 In a way, we could think of this Bayesian network as a lego model. We train it, and replace the parts that are subject to sample bias to generalize to the general population by replacing it with another estimate (which we believe to be more accurate and generalizable --- in particular, in this study, we try to inform our network by published Bayesian meta analyses that leverage themselves multiple studies over the past few months).
+
+Indeed, the assumptions that we are making here are the following:
+- the cohort (Carbon Health data) on which the algorithm was trained is not necessarily the same as the general population: they might have a different selection bias. As such, estimates such as the prevalence or the proportion of asymptomatic individuals is not necessarily the same as for the general population.
+- However, within the sampling frame, the distribution of symptoms given a diagnosis (D=1/0) is the same.
+- Thus, for our dashboard, we use additional data from the C3AI data lake to come up with more accurate prevalences (prevalence in the general population, and prevalence among tested). We have added the code in this repository for the associated Rshiny app which uses the C3ai functions and data.
