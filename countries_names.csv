@@ -1,0 +1,325 @@
+country,database,country_name,region,pop
+UnitedStates,JHU,United States,Main territory,326687501
+China,JHU,China,Main territory,1392730000
+Afghanistan,JHU,Afghanistan,Main territory,37172386
+Albania,JHU,Albania,Main territory,2866376
+Algeria,JHU,Algeria,Main territory,42228429
+Andorra,JHU,Andorra,Main territory,77006
+Angola,JHU,Angola,Main territory,30809762
+AntiguaandBarbuda,JHU,Antigua and Barbuda,Main territory,96286
+Argentina,JHU,Argentina,Main territory,44494502
+Armenia,JHU,Armenia,Main territory,2951776
+Australia,JHU,Australia,Main territory,24982688
+Austria,JHU,Austria,Main territory,8840521
+Azerbaijan,JHU,Azerbaijan,Main territory,9939800
+Bahamas,JHU,Bahamas,Main territory,385640
+Bahrain,JHU,Bahrain,Main territory,1569439
+Bangladesh,JHU,Bangladesh,Main territory,161356039
+Barbados,JHU,Barbados,Main territory,286641
+Belarus,JHU,Belarus,Main territory,9483499
+Belgium,JHU,Belgium,Main territory,11433256
+Benin,JHU,Benin,Main territory,11485048
+Belize,JHU,Belize,Main territory,383071
+Bhutan,JHU,Bhutan,Main territory,754394
+Bolivia,JHU,Bolivia,Main territory,11353142
+BosniaandHerzegovina,JHU,Bosnia and Herzegovina,Main territory,3323929
+Botswana,JHU,Botswana,Main territory,2254126
+Brazil,JHU,Brazil,Main territory,209469333
+Brunei,JHU,Brunei,Main territory,428962
+Bulgaria,JHU,Bulgaria,Main territory,7025037
+BurkinaFaso,JHU,Burkina Faso,Main territory,19751535
+Burundi,JHU,Burundi,Main territory,11175378
+CaboVerde,JHU,Cabo Verde,Main territory,543767
+Cambodia,JHU,Cambodia,Main territory,16249798
+Cameroon,JHU,Cameroon,Main territory,25216237
+Canada,JHU,Canada,Main territory,37057765
+CentralAfricanRepublic,JHU,Central African Republic,Main territory,4666377
+Chad,JHU,Chad,Main territory,15477751
+Chile,JHU,Chile,Main territory,18729160
+Colombia,JHU,Colombia,Main territory,49648685
+Congo(Brazzaville),JHU,Congo,Main territory,5244363
+Congo(Kinshasa),JHU,Democratic Republic of the Congo,Main territory,84068091
+CostaRica,JHU,Costa Rica,Main territory,4999441
+Croatia,JHU,Croatia,Main territory,4087843
+Coted'Ivoire,JHU,Côte d'Ivoire,Main territory,26627699
+Cuba,JHU,Cuba,Main territory,11338138
+Cyprus,JHU,Cyprus,Main territory,1189265
+Czechia,JHU,Czech Republic,Main territory,10629928
+Denmark,JHU,Denmark,Main territory,5793636
+Djibouti,JHU,Djibouti,Main territory,958920
+Dominica,JHU,Dominica,Main territory,71625
+DominicanRepublic,JHU,Dominican Republic,Main territory,10627165
+Ecuador,JHU,Ecuador,Main territory,17084357
+Egypt,JHU,Egypt,Main territory,98423595
+ElSalvador,JHU,El Salvador,Main territory,6420744
+EquatorialGuinea,JHU,Equatorial Guinea,Main territory,1308974
+Eritrea,JHU,Eritrea,Main territory,3565394
+Estonia,JHU,Estonia,Main territory,1321977
+Eswatini,JHU,Eswatini,Main territory,1136191
+Ethiopia,JHU,Ethiopia,Main territory,109224559
+Fiji,JHU,Fiji,Main territory,883483
+Finland,JHU,Finland,Main territory,5515525
+France,JHU,France,Main territory,66977107
+Gabon,JHU,Gabon,Main territory,2119275
+Gambia,JHU,Gambia,Main territory,2280102
+Georgia,JHU,Georgia,Main territory,3726549
+Germany,JHU,Germany,Main territory,82905782
+Ghana,JHU,Ghana,Main territory,29767108
+Greece,JHU,Greece,Main territory,10731726
+Grenada,JHU,Grenada,Main territory,111454
+Guatemala,JHU,Guatemala,Main territory,17247807
+Guinea,JHU,Guinea,Main territory,12414318
+Guinea-Bissau,JHU,Guinea-Bissau,Main territory,1874309
+Guyana,JHU,Guyana,Main territory,779004
+Guernsey,ECDC,Guernsey,Main territory,67052
+Haiti,JHU,Haiti,Main territory,11123176
+HolySee,JHU,Holy See,Main territory,801
+Honduras,JHU,Honduras,Main territory,9587522
+Hungary,JHU,Hungary,Main territory,9775564
+Iran,JHU,Iran,Main territory,81800269
+Iraq,JHU,Iraq,Main territory,38433600
+Iceland,JHU,Iceland,Main territory,352721
+Indonesia,JHU,Indonesia,Main territory,267663435
+India,JHU,India,Main territory,1352617328
+Ireland,JHU,Ireland,Main territory,4867309
+Israel,JHU,Israel,Main territory,8882800
+Italy,JHU,Italy,Main territory,60421760
+Jamaica,JHU,Jamaica,Main territory,2934855
+Japan,JHU,Japan,Main territory,126529100
+Jersey,ECDC,Jersey,Main territory,9241900
+Jordan,JHU,Jordan,Main territory,9956011
+Kazakhstan,JHU,Kazakhstan,Main territory,18272430
+Kenya,JHU,Kenya,Main territory,51393010
+KoreaSouth,JHU,South Korea,Main territory,51606633
+Kosovo,JHU,Kosovo,Main territory,1845300
+Kuwait,JHU,Kuwait,Main territory,4137309
+Kyrgyzstan,JHU,Kyrgyzstan,Main territory,6322800
+Laos,JHU,Laos,Main territory,7275560
+Latvia,JHU,Latvia,Main territory,1927174
+Lebanon,JHU,Lebanon,Main territory,6848925
+Liberia,JHU,Liberia,Main territory,4818977
+Libya,JHU,Libya,Main territory,6678567
+Liechtenstein,JHU,Liechtenstein,Main territory,37910
+Lithuania,JHU,Lithuania,Main territory,2801543
+Luxembourg,JHU,Luxembourg,Main territory,607950
+Madagascar,JHU,Madagascar,Main territory,26262368
+Malawi,JHU,Malawi,Main territory,18143315
+Malaysia,JHU,Malaysia,Main territory,31528585
+Maldives,JHU,Maldives,Main territory,515696
+Mali,JHU,Mali,Main territory,19077690
+Malta,JHU,Malta,Main territory,484630
+Mauritania,JHU,Mauritania,Main territory,4403319
+Mauritius,JHU,Mauritius,Main territory,1265303
+Mexico,JHU,Mexico,Main territory,126190788
+Moldova,JHU,Moldova,Main territory,2706049
+Monaco,JHU,Monaco,Main territory,38682
+Mongolia,JHU,Mongolia,Main territory,3170208
+Montenegro,JHU,Montenegro,Main territory,622227
+Morocco,JHU,Morocco,Main territory,36029138
+Mozambique,JHU,Mozambique,Main territory,29495962
+Myanmar,JHU,Myanmar,Main territory,53708395
+Namibia,JHU,Namibia,Main territory,2448255
+Nepal,JHU,Nepal,Main territory,28087871
+Netherlands,JHU,Netherlands,Main territory,17231624
+NewZealand,JHU,New Zealand,Main territory,4841000
+Nicaragua,JHU,Nicaragua,Main territory,6465513
+Niger,JHU,Niger,Main territory,22442948
+Nigeria,JHU,Nigeria,Main territory,195874740
+NorthMacedonia,JHU,North Macedonia,Main territory,2082958
+Norway,JHU,Norway,Main territory,5311916
+Oman,JHU,Oman,Main territory,4829483
+Pakistan,JHU,Pakistan,Main territory,212215030
+Panama,JHU,Panama,Main territory,4176873
+PapuaNewGuinea,JHU,Papua New Guinea,Main territory,8606316
+Paraguay,JHU,Paraguay,Main territory,6956071
+Peru,JHU,Peru,Main territory,31989256
+Philippines,JHU,Philippines,Main territory,106651922
+Poland,JHU,Poland,Main territory,37974750
+Portugal,JHU,Portugal,Main territory,10283822
+Qatar,JHU,Qatar,Main territory,2781677
+Romania,JHU,Romania,Main territory,19466145
+Rwanda,JHU,Rwanda,Main territory,12301939
+Russia,JHU,Russia,Main territory,144478050
+SaintLucia,JHU,Saint Lucia,Main territory,181889
+SaintVincentandtheGrenadines,JHU,Saint Vincent and the Grenadines,Main territory,110210
+SaintKittsandNevis,JHU,Saint Kitts and Nevis,Main territory,52441
+SanMarino,JHU,San Marino,Main territory,33785
+SaudiArabia,JHU,Saudi Arabia,Main territory,33699947
+Senegal,JHU,Senegal,Main territory,15854360
+Serbia,JHU,Serbia,Main territory,6982604
+Seychelles,JHU,Seychelles,Main territory,96762
+Singapore,JHU,Singapore,Main territory,5638676
+Slovakia,JHU,Slovakia,Main territory,5446771
+Slovenia,JHU,Slovenia,Main territory,2073894
+Somalia,JHU,Somalia,Main territory,15008154
+SouthAfrica,JHU,South Africa,Main territory,57779622
+Spain,JHU,Spain,Main territory,46796540
+SriLanka,JHU,Sri Lanka,Main territory,21670000
+Sudan,JHU,Sudan,Main territory,41801533
+SouthSudan,JHU,South Sudan,Main territory,10975920
+Suriname,JHU,Suriname,Main territory,575991
+Sweden,JHU,Sweden,Main territory,10175214
+Switzerland,JHU,Switzerland,Main territory,8513227
+Syria,JHU,Syria,Main territory,16906283
+SierraLeone,JHU,Sierra Leone,Main territory,7650154
+SaoTomeandPrincipe,JHU,Sao Tome and Principe,Main territory,211028
+Taiwan*,JHU,Taiwan,Main territory,23816775
+Tanzania,JHU,Tanzania,Main territory,56318348
+Timor-Leste,JHU,Timor-Leste,Main territory,1267972
+Thailand,JHU,Thailand,Main territory,69428524
+Togo,JHU,Togo,Main territory,7889094
+TrinidadandTobago,JHU,Trinidad and Tobago,Main territory,1389858
+Tunisia,JHU,Tunisia,Main territory,11565204
+Turkey,JHU,Turkey,Main territory,82319724
+Uganda,JHU,Uganda,Main territory,42723139
+Ukraine,JHU,Ukraine,Main territory,44622516
+UnitedArabEmirates,JHU,United Arab Emirates,Main territory,9630959
+UnitedKingdom,JHU,United Kingdom,Main territory,66460344
+Uruguay,JHU,Uruguay,Main territory,3449299
+Uzbekistan,JHU,Uzbekistan,Main territory,32955400
+Venezuela,JHU,Venezuela,Main territory,28870195
+Vietnam,JHU,Vietnam,Main territory,95540395
+WestBankandGaza,JHU,West Bank and Gaza,Main territory,4569087
+WesternSahara,JHU,Western Sahara,Main territory,59339
+Yemen,JHU,Yemen,Main territory,28498687
+Zambia,JHU,Zambia,Main territory,17351822
+Zimbabwe,JHU,Zimbabwe,Main territory,14439018
+Comoros,NYT,Comoros,Main territory,832322
+Lesotho,NYT,Lesotho,Main territory,2108132
+NorthernMarianaIslands,NYT,Northern Mariana Islands,Main territory,5694
+Tajikistan,NYT,Tajikistan,Main territory,9100837
+AustralianCapitalTerritory_Australia,JHU,Australia,Australian Capital Territory,418440
+Externalterritories_Australia,JHU,Australia,External territories,4307
+JervisBayTerritory_Australia,JHU,Australia,Jervis Bay Territory,391
+NewSouthWales_Australia,JHU,Australia,New South Wales,8092000
+NorthernTerritory_Australia,JHU,Australia,Northern Territory,249220
+Queensland_Australia,JHU,Australia,Queensland,5160023
+SouthAustralia_Australia,JHU,Australia,South Australia,1767247
+Tasmania_Australia,JHU,Australia,Tasmania,524170
+Victoria_Australia,JHU,Australia,Victoria,385999
+WesternAustralia_Australia,JHU,Australia,Western Australia,2760000
+Alberta_Canada,JHU,Canada,Alberta,4421876
+BritishColumbia_Canada,JHU,Canada,British Columbia,37742154
+Manitoba_Canada,JHU,Canada,Manitoba,1380000
+NewBrunswick_Canada,JHU,Canada,New Brunswick,781476
+NewfoundlandandLabrador_Canada,JHU,Canada,Newfoundland and Labrador,522103
+NorthwestTerritories_Canada,JHU,Canada,Northwest Territories,45161
+NovaScotia_Canada,JHU,Canada,Nova Scotia,979351
+Ontario_Canada,JHU,Canada,Ontario,14745040
+PrinceEdwardIsland_Canada,JHU,Canada,Prince Edward Island,159625
+Quebec_Canada,JHU,Canada,Quebec,8180000
+Saskatchewan_Canada,JHU,Canada,Saskatchewan,1181987
+Yukon_Canada,JHU,Canada,Yukon,42052
+Anhui_China,JHU,China,Anhui,63660000
+Beijing_China,JHU,China,Beijing,21540000
+Chongqing_China,JHU,China,Chongqing,31240000
+Fujian_China,JHU,China,Fujian,39730000
+Gansu_China,JHU,China,Gansu,26470000
+Guangdong_China,JHU,China,Guangdong,115210000
+Guangxi_China,JHU,China,Guangxi,4960000
+Guizhou_China,JHU,China,Guizhou,36230000
+Hainan_China,JHU,China,Hainan,9450000
+Hebei_China,JHU,China,Hebei,75920000
+Heilongjiang_China,JHU,China,Heilong jiang,37510000
+Henan_China,JHU,China,Henan,9640000
+HongKong_China,JHU,China,Hong Kong,7496981
+Hubei_China,JHU,China,Hubei_China,59270000
+InnerMongolia_China,JHU,China,Inner Mongolia,69180000
+Jiangsu_China,JHU,China,Jiangsu,2540000
+Jiangxi_China,JHU,China,Jiangxi,8070000
+Jilin_China,JHU,China,Jilin,46660000
+Liaoning_China,JHU,China,Liaoning,26910000
+Macau_China,JHU,China,Macau,43520000
+Ningxia_China,JHU,China,Ningxia,6950000
+Qinghai_China,JHU,China,Qinghai,6080000
+Shaanxi_China,JHU,China,Shaanxi,38760000
+Shandong_China,JHU,China,Shandong,10070000
+Shanghai_China,JHU,China,Shanghai,24280000
+Shanxi_China,JHU,China,Shanxi,37290000
+Sichuan_China,JHU,China,Sichuan,83750000
+Tianjin_China,JHU,China,Tianjin,15620000
+Tibet_China,JHU,China,Tibet,3510000
+Xinjiang_China,JHU,China,Xinjiang,25230000
+Yunnan_China,JHU,China,Yunnan,48580000
+Zhejiang_China,JHU,China,Zhejiang,5850000
+AmericanSamoa_UnitedStates,JHU,United States,American Samoa,55465
+Guam_UnitedStates,JHU,United States,Guam,165768
+NorthernMarianaIslands_UnitedStates,JHU,United States,Northern Mariana Islands,56882
+PuertoRico_UnitedStates,JHU,United States,Puerto Rico,7021841
+VirginIslands_UnitedStates,JHU,United States,Virgin Islands,106977
+Alabama_UnitedStates,JHU,United States,Alabama,4887871
+Alaska_UnitedStates,JHU,United States,Alaska,781305
+Arizona_UnitedStates,JHU,United States,Arizona,7171646
+Arkansas_UnitedStates,JHU,United States,Arkansas,3013825
+California_UnitedStates,JHU,United States,California,39557045
+Colorado_UnitedStates,JHU,United States,Colorado,5695564
+Connecticut_UnitedStates,JHU,United States,Connecticut,3572665
+Delaware_UnitedStates,JHU,United States,Delaware,967171
+DistrictofColumbia_UnitedStates,JHU,United States,District of Columbia,702455
+Florida_UnitedStates,JHU,United States,Florida,21299325
+Georgia_UnitedStates,JHU,United States,Georgia,10519475
+Hawaii_UnitedStates,JHU,United States,Hawaii,1420491
+Idaho_UnitedStates,JHU,United States,Idaho,1754208
+Illinois_UnitedStates,JHU,United States,Illinois,12741080
+Indiana_UnitedStates,JHU,United States,Indiana,6691878
+Iowa_UnitedStates,JHU,United States,Iowa,3156145
+Kansas_UnitedStates,JHU,United States,Kansas,2911505
+Kentucky_UnitedStates,JHU,United States,Kentucky,4468402
+Louisiana_UnitedStates,JHU,United States,Louisiana,4659978
+Maine_UnitedStates,JHU,United States,Maine,1338404
+Maryland_UnitedStates,JHU,United States,Maryland,5214287
+Massachusetts_UnitedStates,JHU,United States,Massachusetts,6902149
+Michigan_UnitedStates,JHU,United States,Michigan,9995915
+Minnesota_UnitedStates,JHU,United States,Minnesota,5611179
+Mississippi_UnitedStates,JHU,United States,Mississippi,2986530
+Missouri_UnitedStates,JHU,United States,Missouri,5129507
+Montana_UnitedStates,JHU,United States,Montana,1062305
+Nebraska_UnitedStates,JHU,United States,Nebraska,1929268
+Nevada_UnitedStates,JHU,United States,Nevada,3034392
+NewHampshire_UnitedStates,JHU,United States,New Hampshire,1356458
+NewJersey_UnitedStates,JHU,United States,New Jersey,8908520
+NewMexico_UnitedStates,JHU,United States,New Mexico,2312950
+NewYork_UnitedStates,JHU,United States,New York,19542209
+NorthCarolina_UnitedStates,JHU,United States,North Carolina,10383620
+NorthDakota_UnitedStates,JHU,United States,North Dakota,760077
+Ohio_UnitedStates,JHU,United States,Ohio,11689442
+Oklahoma_UnitedStates,JHU,United States,Oklahoma,3943079
+Oregon_UnitedStates,JHU,United States,Oregon,4190713
+Pennsylvania_UnitedStates,JHU,United States,Pennsylvania,12807060
+RhodeIsland_UnitedStates,JHU,United States,Rhode Island,1057315
+SouthCarolina_UnitedStates,JHU,United States,South Carolina,5084127
+SouthDakota_UnitedStates,JHU,United States,South Dakota,882235
+Tennessee_UnitedStates,JHU,United States,Tennessee,6770010
+Texas_UnitedStates,JHU,United States,Texas,28701845
+Utah_UnitedStates,JHU,United States,Utah,3161105
+Vermont_UnitedStates,JHU,United States,Vermont,626299
+Virginia_UnitedStates,JHU,United States,Virginia,8787824
+Washington_UnitedStates,JHU,United States,Washington,7535591
+WestVirginia_UnitedStates,JHU,United States,West Virginia,1805832
+Wisconsin_UnitedStates,JHU,United States,Wisconsin,5813568
+Wyoming_UnitedStates,JHU,United States,Wyoming,577737
+Anguilla_UnitedKingdom,JHU,United Kingdom,Anguilla,15003
+Bermuda_UnitedKingdom,JHU,United Kingdom,Bermuda,63973
+BritishVirginIslands_UnitedKingdom,JHU,United Kingdom,British Virgin Islands,29802
+CaymanIslands_UnitedKingdom,JHU,United Kingdom,Cayman Islands,64174
+ChannelIslands_UnitedKingdom,JHU,United Kingdom,Channel Islands,170499
+FalklandIslands(IslasMalvinas)_UnitedKingdom,JHU,United Kingdom,Falkland Islands (Islas Malvinas),3519
+Gibraltar_UnitedKingdom,JHU,United Kingdom,Gibraltar,33718
+IsleofMan_UnitedKingdom,JHU,United Kingdom,Isle of Man,84077
+Montserrat_UnitedKingdom,JHU,United Kingdom,Montserrat,4992
+TurksandCaicosIslands_UnitedKingdom,JHU,United Kingdom,Turks and Caicos Islands,37665
+FrenchGuiana_France,JHU,France,French Guiana,290691
+FrenchPolynesia_France,JHU,France,French Polynesia,277679
+Guadeloupe_France,JHU,France,Guadeloupe,400124
+Martinique_France,JHU,France,Martinique,375265
+Mayotte_France,JHU,France,Mayotte,279471
+NewCaledonia_France,JHU,France,New Caledonia,284060
+Reunion_France,JHU,France,Reunion,859959
+SaintBarthelemy_France,JHU,France,Saint Barthelemy,9889
+StMartin_France,JHU,France,St Martin,37264
+FaroeIslands_Denmark,JHU,Denmark,Faroe Islands,48497
+Greenland_Denmark,JHU,Denmark,Greenland,56025
+Aruba_Netherlands,JHU,Netherlands,Aruba,105845
+Curacao_Netherlands,JHU,Netherlands,Curacao,159800
+SintMaarten_Netherlands,JHU,Netherlands,Sint Maarten,40654
+BonaireSintEustatiusandSaba_Netherlands,JHU,Netherlands,Bonaire Sint Eustatius and Saba,25987

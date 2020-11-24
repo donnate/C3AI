@@ -1,0 +1,62 @@
+Question_number,Question_text,Question_ID,Answer_text,Answer_value,Response
+,Have you taken a COVID-19 antibody test?,test1,Yes,1,"You took an antibody test, which by itself provides an answer as to whether you have COVID-19 antibodies with a reasonable level of accuracy. However, these tests are not perfectly sensitive or specific, and by answering the other questions in this questionnaire you have improved the accuracy of your diagnosis considerably. "
+,Have you taken a COVID-19 antibody test?,test1,No,0,"You didn't take an antibody test, which makes it difficult to predict whether you have had COVID-19. As you will notice, the uncertainty around your diagnosis is quite high because of this, and the best way to be more certain is to take an antibody test alongside filling out this questionnaire. "
+,"If you have taken an antibody test, what was your result?",test,Negative (only the control line),0,"Your negative antibody test result makes it less likely that you have had COVID-19, however these tests do not detect everyone who has had COVID-19 as not everyone develops high levels of antibodies and they can also take up to a few weeks to accumulate after symptoms develop as well fade over time, sometimes within a few months. "
+,"If you have taken an antibody test, what was your result?",test,Positive (control + IgG and/or IgM line),1,"Your positive antibody test result makes it much more likely that you have had COVID-19, however these tests do sometimes produce false positives. By answering the other questions in this questionnaire, such as where and when you think you were ill with COVID-19, what symptoms you had, and how long they lasted, this algorithm can increase the certainty of your diagnosis. "
+,"If you have taken an antibody test, what was your result?",test,I haven't taken any antibody tests,2,"You didn't take an antibody test, which makes it difficult to predict whether you have had COVID-19. As you will notice, the uncertainty around your diagnosis is quite high because of this, and the best way to be more certain is to take an antibody test alongside filling out this questionnaire. "
+,How are you feeling? Have you been ill with anything since January 2020?,symptomatic,"I'm fine, haven't been ill at all since the pandemic began",0,You stated that you hadn't been ill at all since the pandemic began.
+,How are you feeling? Have you been ill with anything since January 2020?,symptomatic,I'm beginning to feel ill,1,You stated that you were feeling ill.
+,"If applicable, how long after your first symptoms did you take the test?",label_t,NA,missing,
+,"If applicable, how long after your first symptoms did you take the test?",label_t,I've never felt ill,asymptomatic,
+,"If applicable, how long after your first symptoms did you take the test?",label_t,Less than 10 days,2-10 days,Less than 10 days is usually too short a time period to wait before getting an antibody test. Taking an antibody test is best done around 3 weeks after symptoms started. 
+,"If applicable, how long after your first symptoms did you take the test?",label_t,11-20 days,11-20 days,"Antibody levels usually rise 10 days or so after first COVID symptoms, but they may take longer and so taking an antibody test is best done around 3 weeks after symptoms started. "
+,"If applicable, how long after your first symptoms did you take the test?",label_t,21+ days,21+ days,"Waiting 3 weeks from first symptoms to getting an antibody test, as you did, gives your body enough time to produce antibodies in high enough levels to be detectable, however, in many people antibody levels decline after a few months. "
+,What sex were you assigned at birth?,,Male,0,"You said you are male, meaning that based on your sex alone you are twice as likely as women to have severe COVID-19."
+,What sex were you assigned at birth?,,Female,1,"You said you are female, meaning that based on your sex alone you are about half as likely as men to have severe COVID-19."
+,What sex were you assigned at birth?,,Other/I prefer not to say,2,"You did not feel that Male or Female described your sex, or preferred not to mention it, but we can tell you that men are about twice as likely as women to have severe COVID-19."
+,What is your age group?,,0-19,0,You said that you are between 0-19 which puts you in a lower risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,20-29,1,You said that you are between 20-29 which puts you in a lower risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,30-39,2,You said that you are between 30-39 which puts you in a lower risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,40-49,3,You said that you are between 40-49 which puts you in a lower risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,50-59,4,You said that you are between 50-59 which puts you in a medium risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,60-69,5,You said that you are between 60-69 which puts you in a medium-high risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,70-79,6,You said that you are between 70-79 which puts you in a higher risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,80+,7,You said that you are over 80 which puts you in a much higher risk group of developing severe COVID-19 symptoms.
+,What is your age group?,,I prefer not to say,8,"We cannot tell you your risk of developing severe COVID-19 according to your age as you did not supply one, however, the risk tends to increase with age, particularly above age 70. "
+,Did you experience any chills?,chills,Yes,1,"<span class=""red;""> Chills  </span> (common with many illnesses, not only COVID-19); "
+,Did you experience any chills?,chills,No,0,
+,A fever/high temperature?,fever,Yes,1,<b>Fever / high temperature</b> (this is common in the first few days of COVID-19); 
+,A fever/high temperature?,fever,No,0,
+,Any loss of taste or smell?,lossTaste,Yes,1,<b>Loss of sense of taste / smell </b>(very specific to COVID-19 - around 80% of people with 'Anosmia' will find it was caused by Coronavirus if there was no other reason such as congested nose or hay fever);
+,Any loss of taste or smell?,lossTaste,No,0,
+,A cough?,Cough,Yes,1,<b>Cough</b> (quite specific to COVID-19 - many people with a new persistent dry cough will have developed this because of CoronaVirus); 
+,cough?,Cough,No,0,
+,A cough with sputum?,coughWithSputum,Yes,1,"Cough with sputum (not specific, and in fact a productive cough means that it was probably less likely to have been CoronaVirus);  "
+,A cough with sputum?,coughWithSputum,No,0,
+,Fatigue?,fatigue,Yes,1,"<b>Feeling really tired</b>(almost all patients with significant COVID-19 reported feeling very fatigued. In some this lasted just a few days, but for others this has been a persistent feature of delayed recovery);"
+,Fatigue?,fatigue,No,0,
+,Shortness of breath?,shortnessOfBreath,Yes,1,"<b>Shortness of breath </b> (this is a key feature of COVID-19 caused by the Pneumonia but can also start long after other symptoms have resolved. Shortness of breath may also be caused by excess blood clotting in the lungs or heart vessels that makes oxygenation of the blood (or circulation of blood by the heart) more difficult. If anyone is experiencing shortness of breath on exercise after a few weeks of having no other symptoms we strongly recommend contacting your GP or a physician that specialises in rehabilitation after pneumonia. This may also be caused by problems with the heart and circulatory system, not necessarily the lungs and does need investigation)."
+,Shortness of breath?,shortnessOfBreath,No,0,
+,Achy joints or muscles?,,Yes,1,"<b> Achy joints and / or muscles </b> (common, but not very specific to COVID-19);"
+,Achy joints or muscles?,myalgia,No,0,
+,A sore throat?,myalgia,Yes,1,<b> A sore throat </b> (unlikely to have been COVID-19);
+,A sore throat?,soreThroat,No,0,
+,Headaches?,headache,Yes,1,<b> Headache </b>(this is not specific to COVID-19 but for some it was the only symptom they experienced);
+,Headaches?,headache,No,0,
+,Vomiting / nausea?,nausea,Yes,1,<b> Vomiting / nauseous </b>(uncommon in COVID-19 but may have been caused by a high temperature. Many patients did report having no appetite and losing weight however);
+,Vomiting / nausea?,nausea,No,0,
+,Congested nose,runny_nose,Yes,1,"<b> A congested nose </b>(unlikely to have been COVID-19, and this can also cause a loss of sense of smell);"
+,Congested nose,runny_nose,No,0,
+,An upset stomach/diarrhoea?,stomachUpsetDiarrhoea,Yes,1,"<b> Stomach disturbance / diarrhoea  </b> (unlikely to have been COVID-19, although for some this was the only significant illness. There is evidence that the virus (and inactive viral RNA) is shed in the stool long after infectiousness has ended);"
+,An upset stomach/diarrhoea?,stomachUpsetDiarrhoea,No,0,
+,Confusion?,confusion,Yes,1,"<b> Confusion </b> (uncommon but a feature of COVID-19, especially in older patients with blood vessel disease in the brain (cerebrovascular disease and dementia); "
+,Confusion?,confusion,No,0,
+,Rash?,rash,Yes,1,Rash (uncommon but for some it was one of the only symptoms reported); 
+,Rash?,rash,No,0,
+,"If applicable, how long did you feel ill / have you had symptoms for?",index_lengthOfTimeOfSymptoms,I never felt ill,0,
+,"If applicable, how long did you feel ill / have you had symptoms for?",index_lengthOfTimeOfSymptoms,Less than a week,1,You had a relatively short duration of illness for COVID-19.
+,"If applicable, how long did you feel ill / have you had symptoms for?",index_lengthOfTimeOfSymptoms,One to two weeks,2,You had a slightly shorter than average duration of illness for COVID-19.
+,"If applicable, how long did you feel ill / have you had symptoms for?",index_lengthOfTimeOfSymptoms,More than two weeks,3,You had a slightly longer than average duration of illness for COVID-19.
+,"If applicable, how long did you feel ill / have you had symptoms for?",index_lengthOfTimeOfSymptoms,More than three weeks,4,You had a much longer than average duration of illness for COVID-19. Prolonged symptoms and failure of full recovery is a feature of COVID-19 for may people whether they were hospitalised or at home. It is important to track your recovery and should your return to normal exercise capacity or feeling fully normal again take longer than 2 months you should seek expert opinion for further investigations.
+,Did anyone else in your household fall ill?,householdIllness,Yes,1,"It is much more likely that you will have had the infection if everyone else you live with had the virus too. But, this does not necessarily mean that those in the same household will all have had symptoms nor does it mean that you will all have antibodies or lasting 'immunity'. If all of you infected only had symptoms for a single period of illness, however long, and have not been re-infected, it is likely you have some degree of immunity, though we do not know how long that will last and it should not change how aware and careful you need to still be about getting or giving the virus to others."
+,Did anyone else in your household fall ill?,householdIllness,No,0,"It is much more likely that you will have had the infection if everyone else you live with had the virus too. But, this does not necessarily mean that those in the same household will all have had symptoms nor does it mean that you will all have antibodies or lasting 'immunity'. If all of you infected only had symptoms for a single period of illness, however long, and have not been re-infected, it is likely you have some degree of immunity, though we do not know how long that will last and it should not change how aware and careful you need to still be about getting or giving the virus to others."

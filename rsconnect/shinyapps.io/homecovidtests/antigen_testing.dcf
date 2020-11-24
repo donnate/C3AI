@@ -1,0 +1,12 @@
+name: antigen_testing
+title: antigen_testing
+username:
+account: homecovidtests
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3292769
+bundleId: 3898528
+url: https://homecovidtests.shinyapps.io/antigen_testing/
+when: 1606201784.47528
+asMultiple: FALSE
+asStatic: FALSE

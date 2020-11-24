@@ -1,0 +1,13 @@
+name: C3AI_AntigenTesting
+title: C3AI_AntigenTesting
+username:
+account: homecovidtests
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3254574
+bundleId: 3898563
+url: https://homecovidtests.shinyapps.io/C3AI_AntigenTesting/
+when: 1606202623.47566
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app_debug.R|fips.txt

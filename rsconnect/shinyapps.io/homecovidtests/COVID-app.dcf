@@ -1,0 +1,12 @@
+name: COVID-app
+title: COVID-app
+username:
+account: homecovidtests
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2911847
+bundleId: 3686169
+url: https://homecovidtests.shinyapps.io/COVID-app/
+when: 1601448721.46562
+asMultiple: FALSE
+asStatic: FALSE
